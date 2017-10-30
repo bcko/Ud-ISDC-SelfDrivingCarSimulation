@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "P0_PARALLEL_PARK.data.unityweb",
+"asmCodeUrl": "P0_PARALLEL_PARK.asm.code.unityweb",
+"asmMemoryUrl": "P0_PARALLEL_PARK.asm.memory.unityweb",
+"asmFrameworkUrl": "P0_PARALLEL_PARK.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
